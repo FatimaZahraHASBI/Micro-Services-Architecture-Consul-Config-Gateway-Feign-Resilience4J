@@ -4,5 +4,8 @@
  ![Screenshot (169)](https://user-images.githubusercontent.com/63150702/199122559-b0a3b889-ffbe-4368-9d08-fbfcff25a5a6.png)
  <br>
 ## Les étapes à suivre pour implémenter cette architecture
-<h3>Config-service</h3>
-- L'initialisation du projet <br>
+<b>Config-service</b>
+- L'initialisation du projet sur Intellij<br><br>
+![Capture](https://user-images.githubusercontent.com/63150702/199219607-7a526256-4bc7-4870-b8ba-105b23eb8265.PNG)
+<br>
+- Les dépendances nécessaires <br><br>
