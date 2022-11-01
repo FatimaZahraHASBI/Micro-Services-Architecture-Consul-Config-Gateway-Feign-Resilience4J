@@ -7,5 +7,5 @@
 <b>Config-service</b>
 - L'initialisation du projet sur Intellij<br><br>
 ![Capture](https://user-images.githubusercontent.com/63150702/199219607-7a526256-4bc7-4870-b8ba-105b23eb8265.PNG)
-<br>
 - Les dépendances nécessaires <br><br>
+![image](https://user-images.githubusercontent.com/63150702/199220523-bc917903-19e8-4054-af2f-2df0f99a4ed9.png)
