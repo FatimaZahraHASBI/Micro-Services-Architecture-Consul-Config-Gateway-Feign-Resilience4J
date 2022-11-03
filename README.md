@@ -4,6 +4,7 @@
  ![Screenshot (169)](https://user-images.githubusercontent.com/63150702/199122559-b0a3b889-ffbe-4368-9d08-fbfcff25a5a6.png)
  <br>
 ## Démonstration
+<b>Le lien vers les micro-services : [micro-services](https://github.com/FatimaZahraHASBI/Micro-Services-Architecture-Consul-Config-Gateway-Feign-Resilience4J/tree/master/micro-services) </b><br>
 <b>Mon Discovery-service après la création de tous les services et leurs démarrage</b><br><br>
 ![image](https://user-images.githubusercontent.com/63150702/199824134-3c82f21a-451c-44bc-a437-ce78e6931893.png)
 <br><br>
