@@ -27,3 +27,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Journalisation de OpenFeign 
 ![image](https://user-images.githubusercontent.com/63150702/201186491-46d70aa9-4ba0-4787-9f43-49341a8a8d89.png)<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Consul config et vault
+![image](https://user-images.githubusercontent.com/63150702/201228553-cedd5238-5a43-4657-b61a-1dd7984ce686.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228601-3d7e47c7-00d0-4316-933d-e332f168fe4e.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228642-9644ba1e-9273-46dd-942e-ba8b1cbec43f.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228783-c3478903-01a1-408a-9451-eb98f029fd83.png)
+
