@@ -23,4 +23,7 @@
 ![image](https://user-images.githubusercontent.com/63150702/199825463-baf92837-25eb-4d5c-b40f-ec0e53b39366.png)<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Ce service montre que tout les autres services marchent bien, parce que order-service utilise customer-service et inventory-service
-![image](https://user-images.githubusercontent.com/63150702/199825981-a5db5386-3dba-4238-b52e-46a901a8abbf.png)
+![image](https://user-images.githubusercontent.com/63150702/199825981-a5db5386-3dba-4238-b52e-46a901a8abbf.png)<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Journalisation de OpenFeign 
+![image](https://user-images.githubusercontent.com/63150702/201186491-46d70aa9-4ba0-4787-9f43-49341a8a8d89.png)<br>
