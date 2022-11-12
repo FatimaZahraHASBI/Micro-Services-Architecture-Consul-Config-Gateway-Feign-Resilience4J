@@ -1,0 +1,22 @@
+<div class="container">
+  <table class="table mt-5" *ngIf="customers">
+    <thead class="text-primary">
+    <tr>
+      <th>Customers</th>
+    </tr>
+    </thead>
+    <thead>
+    <tr bgcolor="#b0c4de">
+      <th>Id</th><th>Name</th><th>Email</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let c of customers._embedded.customers">
+      <td>{{c.id}}</td>
+      <td>{{c.name}}</td>
+      <td>{{c.email}}</td>
+      <td><button class="btn btn-success" (click)="getOrders(c)">Orders</button></td>
+    </tr>
+    </tbody>
+  </table>
+</div>
