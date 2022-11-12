@@ -23,4 +23,28 @@
 ![image](https://user-images.githubusercontent.com/63150702/199825463-baf92837-25eb-4d5c-b40f-ec0e53b39366.png)<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Ce service montre que tout les autres services marchent bien, parce que order-service utilise customer-service et inventory-service
-![image](https://user-images.githubusercontent.com/63150702/199825981-a5db5386-3dba-4238-b52e-46a901a8abbf.png)
+![image](https://user-images.githubusercontent.com/63150702/199825981-a5db5386-3dba-4238-b52e-46a901a8abbf.png)<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Journalisation de OpenFeign 
+![image](https://user-images.githubusercontent.com/63150702/201186491-46d70aa9-4ba0-4787-9f43-49341a8a8d89.png)<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Consul config et vault
+![image](https://user-images.githubusercontent.com/63150702/201228553-cedd5238-5a43-4657-b61a-1dd7984ce686.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228601-3d7e47c7-00d0-4316-933d-e332f168fe4e.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228642-9644ba1e-9273-46dd-942e-ba8b1cbec43f.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201228783-c3478903-01a1-408a-9451-eb98f029fd83.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+## Partie Front end avec Angular
+![image](https://user-images.githubusercontent.com/63150702/201487391-41de209f-a0e0-474e-81db-05469dce3c42.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201487546-05454308-dc85-470c-abf5-c8294a7b2079.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201487561-6abeea93-4b32-4a0f-973c-1af458639754.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201487571-c74ebcb8-543b-4068-bc97-7910964bb9e8.png)
+<br>
+![image](https://user-images.githubusercontent.com/63150702/201487639-2d65b503-8e3b-4e61-8041-b5d3bcbf2919.png)
